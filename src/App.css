@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.Email_box {
+  width: 50%;
+  text-align: left;
+  margin: 0 auto;
+}
